@@ -3,7 +3,7 @@ import { link } from 'react-router';
 import { Row, Col } from 'react-bootstrap';
 import SideNav from './components/side_nav/nav';
 import Menu from './components/main/menu/menu';
-import Tab from './components/main/tabs/tab';
+import Tab from './components/side_nav/tabs/tab';
 
 export default class App extends React.Component {
 
